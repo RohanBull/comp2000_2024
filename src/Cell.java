@@ -7,8 +7,8 @@
     
     public Cell(int x, int y, Graphics g){
         g.setColor(Color.WHITE);
-        g.fillRect(i*35+10, j*35+10, 35, 35);
+        g.fillRect(x*35+10, y*35+10, 35, 35);
         g.setColor(Color.BLACK);
-        g.drawRect(i*35+10, j*35+10, 35, 35);
+        g.drawRect(x*35+10, y*35+10, 35, 35);
         }
  }
