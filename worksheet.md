@@ -12,11 +12,22 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+  Platforms for hosting git repositories - ideal for code management and collaboration. Both have unique strengths although github is generally more widely used and recognised.
+
   * Who made the last commit to repository A?
+  Matthew Roberts - 2022-08-18
+
   * Who made the first commit to repository A?
+  Jon Mountjoy - 2014-08-11
+
   * Who made the first and last commits to repository B?
+  DavePearce - 2022-08-10
+
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+  Both repositories have not been changed since 2022
+
   * 🤔 Which file in each project has had the most activity?
+  
 
 # Task 2
 
@@ -29,6 +40,7 @@ Modify the application so that instead it prints
 ~~~~~
 Red vs. Blue
 ~~~~~
+
 
 # Task 3
 
